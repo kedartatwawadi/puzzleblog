@@ -12,7 +12,8 @@ author:
   name:           Kedar Tatwawadi
   url:            https://twitter.com/kedar
   email:          ktatwawadi@gmail.com
-
+markdown:         redcarpet
+          
 # Custom vars
 version:          1.0.0
 github:
