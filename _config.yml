@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            The Puzzle Blog
+tagline:          The Puzz Blog
+url:              http://kedartatwawadi
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Kedar Tatwawadi
+  url:            https://twitter.com/kedar
+  email:          ktatwawadi@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/kedartatwawadi/puzzleblog
