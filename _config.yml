@@ -1,4 +1,5 @@
-# Permalinks
+#
+#Permalinks
 permalink:        pretty
 relative_permalinks: true
 
@@ -7,7 +8,7 @@ title:            The Puzzle Blog
 tagline:          The Puzz Blog
 url:              http://kedartatwawadi.com/puzzleblog
 paginate:         1
-baseurl:          /
+baseurl:          http://kedartatwawadi.com/puzzleblog/
 author:
   name:           Kedar Tatwawadi
   url:            https://twitter.com/kedar
