@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            The Puzzle Blog
 tagline:          The Puzz Blog
-url:              http://kedartatwawadi.com
+url:              http://kedartatwawadi.com/puzzleblog
 paginate:         1
 baseurl:          /
 author:
