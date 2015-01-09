@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
- <link href="http://kedartatwawadi.com/musicblog//atom.xml" rel="self"/>
- <link href="http://kedartatwawadi.com/musicblog//"/>
- <updated>2015-01-08T01:46:22+00:00</updated>
- <id>http://kedartatwawadi.com/musicblog/</id>
+ <title>Enigma</title>
+ <link href="http://kedartatwawadi.com/puzzleblog//atom.xml" rel="self"/>
+ <link href="http://kedartatwawadi.com/puzzleblog//"/>
+ <updated>2015-01-09T00:50:19+00:00</updated>
+ <id>http://kedartatwawadi.com/puzzleblog/</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -13,10 +13,27 @@
 
  
  <entry>
+   <title>Number of Pentagons in a Football</title>
+   <link href="http://kedartatwawadi.com/puzzleblog//2015/01/09/puzzle1/"/>
+   <updated>2015-01-09T00:00:00+00:00</updated>
+   <id>http://kedartatwawadi.com/puzzleblog//2015/01/09/puzzle1</id>
+   <content type="html">&lt;p&gt;I encountered this fascinating puzzle during the class of Graph Theory by Prof. Abhiram Ranade a few months ago when I was still a student.
+I was especially awestruck by the beauty of the puzzle!&lt;/p&gt;
+
+&lt;h1&gt;The Problem&lt;/h1&gt;
+
+&lt;p&gt;Everyone has seen a football, and many of you have played with it.
+For the uninformed, the football looks something like this: &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kedartatwawadi.files.wordpress.com/2014/04/fotball.jpg&quot; alt=&quot;The Football&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Introducing Lanyon</title>
-   <link href="http://kedartatwawadi.com/musicblog//2014/01/02/introducing-lanyon/"/>
+   <link href="http://kedartatwawadi.com/puzzleblog//2014/01/02/introducing-lanyon/"/>
    <updated>2014-01-02T00:00:00+00:00</updated>
-   <id>http://kedartatwawadi.com/musicblog//2014/01/02/introducing-lanyon</id>
+   <id>http://kedartatwawadi.com/puzzleblog//2014/01/02/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
@@ -59,9 +76,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://kedartatwawadi.com/musicblog//2014/01/01/example-content/"/>
+   <link href="http://kedartatwawadi.com/puzzleblog//2014/01/01/example-content/"/>
    <updated>2014-01-01T00:00:00+00:00</updated>
-   <id>http://kedartatwawadi.com/musicblog//2014/01/01/example-content</id>
+   <id>http://kedartatwawadi.com/puzzleblog//2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -189,9 +206,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://kedartatwawadi.com/musicblog//2013/12/31/whats-jekyll/"/>
+   <link href="http://kedartatwawadi.com/puzzleblog//2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00+00:00</updated>
-   <id>http://kedartatwawadi.com/musicblog//2013/12/31/whats-jekyll</id>
+   <id>http://kedartatwawadi.com/puzzleblog//2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
